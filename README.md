@@ -14,15 +14,15 @@ PERSONAL.XLSBに保存して動作させることを想定しています。
 Microsoft Excel上で動作します。  
 
 ## インストール方法
-1. Othello_2025またはOthello_P2_2025を任意の場所に保存
+1. Othello_2025 または Othello_P2_2025 を任意の場所に保存
 2. Excelで新規WorkSheetを開く
 3. 開発タブのVisual BasicまたはAlt+F11でVBE(Visual Basic Editor)を開く
-4. VBAProject一覧からVBAProject (PERSONAL.XLSB)を選択し右クリック
-5. ファイルのインポートで保存したOthello_2025またはOthello_P2_2025を開く
+4. VBAProject一覧から VBAProject (PERSONAL.XLSB) を選択し右クリック
+5. ファイルのインポートで保存した Othello_2025 または Othello_P2_2025 を開く
 6. 上書き保存ボタンまたはCtrl+Sで保存
 以下オプション設定  
 7. 任意のExcel WorkSheetに戻り、ファイル→オプション→リボンのユーザー設定の順で遷移
-8. 任意のユーザー設定グループにPERSONAL.XLSB!StartReversiGameまたはPERSONAL.XLSB!StartReversiGame2Pのマクロを追加
+8. 任意のユーザー設定グループに PERSONAL.XLSB!StartReversiGame または PERSONAL.XLSB!StartReversiGame2P のマクロを追加
 9. お好みで名前やアイコンを変更
 10. Excel WorkSheetに戻り、設定したマクロのアイコンを選択してプレイを開始
 
