@@ -28,4 +28,4 @@ Microsoft Excel上で動作します。
 [Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0 "nattotoasto")
 
 ## ライセンス
-MIT
+MIT License
