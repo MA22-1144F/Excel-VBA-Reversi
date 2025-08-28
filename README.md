@@ -1,6 +1,6 @@
 # Excel-VBA-Reversi
 
-## Overview
+## 概要
 VBAを利用してExcel Sheet上でリバーシがプレイできます。  
 セルのクリックによる操作と座標の入力による操作に対応しています。  
 PERSONAL.XLSBに保存して動作させることを想定しています。  
@@ -8,10 +8,10 @@ PERSONAL.XLSBに保存して動作させることを想定しています。
 * Othello_2025：CPU対戦版(3段階の難易度設定)  
 * Othello_P2_2025：2プレイヤー対戦版
 
-## Requirement
+## 動作環境
 Microsoft Excel上で動作します。  
 
-## Usage
+## 使い方
 1. Othello_2025またはOthello_P2_2025を任意の場所に保存
 2. Excelで新規WorkSheetを開く
 3. 開発タブのVisual BasicまたはAlt+F11でVBE(Visual Basic Editor)を開く
@@ -24,8 +24,8 @@ Microsoft Excel上で動作します。
 9. お好みで名前やアイコンを変更
 10. Excel WorkSheetに戻り、設定したマクロのアイコンを選択してプレイを開始
 
-## Author
+## 連絡先
 [Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0 "nattotoasto")
 
-## Licence
+## ライセンス
 MIT
