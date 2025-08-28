@@ -24,7 +24,7 @@ Microsoft Excel上で動作します。
 10. Excel WorkSheetに戻り、設定したマクロのアイコンを選択してプレイを開始
 
 ## Author
-[Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0)
+[Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0 "nattotoasto")
 
 ## Licence
 MIT
