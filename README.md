@@ -8,6 +8,8 @@ PERSONAL.XLSBに保存して動作させることを想定しています。
 * Othello_2025：CPU対戦版(3段階の難易度設定)  
 * Othello_P2_2025：2プレイヤー対戦版
 
+
+
 ## 動作環境
 Microsoft Excel上で動作します。  
 
