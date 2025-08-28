@@ -23,7 +23,8 @@ Microsoft Excel上で動作します。
 9. お好みで名前やアイコンを変更
 10. Excel WorkSheetに戻り、設定したマクロのアイコンを選択してプレイを開始
 
-## Features
+##Author
+[Instagram](https://www.instagram.com/nattotoasto?igsh=NWNtdHhnY3A4NDQ0)
 
 ## Licence
 MIT
